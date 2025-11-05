@@ -1,19 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/PWlsJVm3mhwQhD7imf/giphy.gif" />
   
-  <!-- Add this stuff later
   <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
     <a href="https://defcon.social/@itsashthetik">
-      <img src="ttps://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
     </a>
   </div>
-  -->
   
   ![](https://komarev.com/ghpvc/?username=ashthetik&style=for-the-badge&color=ff69b4&label=Profile+Views)
   
