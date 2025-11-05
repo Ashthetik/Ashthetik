@@ -18,37 +18,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/WyVUsbu6veHvrzVnPY/giphy.gif" />
 </div>
-  
+
 ---
-
-### 👩‍💻 About Me:
-I'm a Full Stack, Network Infra., Software, and Web Engineer~
-
-- 🔭 I’m currently working on [Polarity](https://github.com/Ashthetik/Polarity-); Game Engine Compatible AI System!
-  
-- 🌱 I'm way too overqualified, but studied CSec, Network Engineering, Machine Learning, Psych and Soft Dev
-
-- 🤝 I’m looking for help with... Nothin' right now!
-
-- 👨‍💻 All of my projects are available either here, or at [https://ashleyxir.tech](https://ashleyxir.tech)
-
-- 💬 Ask me anything about: AI, Networking, Web, Psychology, and Software Engineering~
-
 
 - Extra Details:
 - - Age: 20
 - - Gender/Sex: Female (MtF) 🏳️‍⚧️
-- - Location: Australia 🇦🇺
-
-<h3 align="left">
-  ⛓️ Connect with me on:
-</h3>
-
-- Session: 05e9e161b92c608b80c61bbf926f72ef1bcc3c0bad51dcd902f72ba726b5b68832  
-- Email: [me@ashleyxir.tech](mail:me@ashleyxir.tech)
-- Discord: [dsc.bio/its-ashthetik](https://dsc.bio/its-ashthetik)  
-- KeyBase: [Ashthetik/keybase.md](https://gist.github.com/Ashthetik/f01fe0d2f5ea8328cbd0c757526551f9)
-- Mastodon/DEFCON.social: [@itsashthetik](https://defcon.social/@itsashthetik)
 
 <br />
 
@@ -102,7 +77,7 @@ I'm a Full Stack, Network Infra., Software, and Web Engineer~
 ### :fire: My Stats:  
 <br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ashthetik&theme=dark&background=000000)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ashthetik&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashthetik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
